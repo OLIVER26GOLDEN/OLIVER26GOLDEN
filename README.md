@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm Oliver 👋
 
-<!--
-**OLIVER26GOLDEN/OLIVER26GOLDEN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Junior Python Developer focused on:
+- APIs
+- Automation systems
+- Backend development
 
-Here are some ideas to get you started:
+## Technologies
+- Python
+- Git & GitHub
+- Linux
+- REST APIs
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Certifications
+- Python
+- Advanced Python
+- Git & GitHub
+- Linux & Terminal
+
+## Featured Projects
+- TeamBinari_Bot
+- Binary IQOption Automation
