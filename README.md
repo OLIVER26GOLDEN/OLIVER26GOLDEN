@@ -47,6 +47,20 @@ if __name__ == "__main__":
     # >> Hey! I'm Oliver Lugo Jiménez — let's build something. 🚀
 ```
 
+## 🏅 Certifications
+
+<div align="center">
+
+[![Python](https://img.shields.io/badge/Python-Conquer%20Blocks-0d1117?style=for-the-badge&logo=python&logoColor=00ff88&labelColor=0d1117&color=00ff88)](https://github.com/OLIVER26GOLDEN/OLIVER26GOLDEN/blob/main/certs/python.pdf)
+[![Python Avanzado](https://img.shields.io/badge/Python%20Avanzado-Conquer%20Blocks-0d1117?style=for-the-badge&logo=python&logoColor=00ff88&labelColor=0d1117&color=00ff88)](https://github.com/OLIVER26GOLDEN/OLIVER26GOLDEN/blob/main/certs/python-avanzado.pdf)
+[![Git & GitHub](https://img.shields.io/badge/Git%20%26%20GitHub-Conquer%20Blocks-0d1117?style=for-the-badge&logo=github&logoColor=00ff88&labelColor=0d1117&color=00ff88)](https://github.com/OLIVER26GOLDEN/OLIVER26GOLDEN/blob/main/certs/git-github.pdf)
+[![Linux & Terminal](https://img.shields.io/badge/Linux%20%26%20Terminal-Conquer%20Blocks-0d1117?style=for-the-badge&logo=linux&logoColor=00ff88&labelColor=0d1117&color=00ff88)](https://github.com/OLIVER26GOLDEN/OLIVER26GOLDEN/blob/main/certs/linux-terminal.pdf)
+[![Pseudocódigo](https://img.shields.io/badge/Pseudoc%C3%B3digo-Conquer%20Blocks-0d1117?style=for-the-badge&logo=bookstack&logoColor=00ff88&labelColor=0d1117&color=00ff88)](https://github.com/OLIVER26GOLDEN/OLIVER26GOLDEN/blob/main/certs/pseudocodigo.pdf)
+
+</div>
+
+
+
 
 
 ## 🏅 Certifications
