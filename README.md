@@ -3,16 +3,11 @@ README.md
 
 <!-- Badges -->
 [![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=00ff88)](https://github.com/OLIVER26GOLDEN)
-[![Git](https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=00ff88)](https://github.com/OLIVER26GOLDEN)
 [![Linux](https://img.shields.io/badge/Linux-0d1117?style=for-the-badge&logo=linux&logoColor=00ff88)](https://github.com/OLIVER26GOLDEN)
 [![REST API](https://img.shields.io/badge/REST_API-0d1117?style=for-the-badge&logo=fastapi&logoColor=00ff88)](https://github.com/OLIVER26GOLDEN)
-[![Telegram](https://img.shields.io/badge/Telegram_API-0d1117?style=for-the-badge&logo=telegram&logoColor=00ff88)](https://github.com/OLIVER26GOLDEN)
-![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=00ff88)
 ![IQ Option](https://img.shields.io/badge/IQ_Option_API-0d1117?style=for-the-badge&logo=chartdotjs&logoColor=00ff88)
 ![Telegram](https://img.shields.io/badge/Telegram_API-0d1117?style=for-the-badge&logo=telegram&logoColor=00ff88)
 ![Git](https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=00ff88)
-![Linux](https://img.shields.io/badge/Linux-0d1117?style=for-the-badge&logo=linux&logoColor=00ff88)
-![REST API](https://img.shields.io/badge/REST_APIs-0d1117?style=for-the-badge&logo=fastapi&logoColor=00ff88)
 
 </div>
 
