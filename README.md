@@ -1,12 +1,6 @@
 README.md
 
-<img src="https://github-readme-stats.vercel.app/api?username=OLIVER26GOLDEN&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00ff88&icon_color=00ff88&text_color=e6edf3&ring_color=00ff88" height="160"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OLIVER26GOLDEN&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00ff88&text_color=e6edf3" height="160"/>
-<img src="https://github-readme-stats.vercel.app/api?username=OLIVER26GOLDEN&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00ff88&icon_color=00ff88&text_color=e6edf3&ring_color=00ff88" height="165"/>
-&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OLIVER26GOLDEN&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00ff88&text_color=e6edf3" height="165"/>
 
-<br/><br/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=OLIVER26GOLDEN&theme=dark&hide_border=true&background=0d1117&stroke=00ff88&ring=00ff88&fire=00ff88&currStreakLabel=00ff88&sideLabels=00ff88&dates=e6edf3" height="160"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=OLIVER26GOLDEN&theme=dark&hide_border=true&background=0d1117&stroke=00ff88&ring=00ff88&fire=00ff88&currStreakLabel=00ff88&sideLabels=00ff88&dates=e6edf3" height="165"/>
