@@ -47,7 +47,7 @@ if __name__ == "__main__":
     # >> Hey! I'm Oliver Lugo Jiménez — let's build something. 🚀
 ```
 
-<img width="3202" height="2261" alt="python" src="https://github.com/user-attachments/assets/d39881b3-c123-483a-86c3-98692eeb1421" />
+<img width="120" alt="python" src="https://github.com/user-attachments/assets/d39881b3-c123-483a-86c3-98692eeb1421" />
 
 
 
