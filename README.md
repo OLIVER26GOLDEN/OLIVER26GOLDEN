@@ -9,6 +9,11 @@ Mostrar imagen
 Mostrar imagen
 Mostrar imagen
 </div>
+<!-- Typing SVG animado -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FF88&center=true&vCenter=true&width=600&lines=Python+Developer+%F0%9F%90%8D;Automation+%26+REST+APIs;Trading+Bot+Builder+%F0%9F%93%88;Backend+Development;Open+to+Work+%F0%9F%9F%A2" alt="Typing SVG" />
+
+<br/>
+
 
 ## `$ python3 oliver.py --info`
 
