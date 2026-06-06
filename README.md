@@ -1,24 +1,19 @@
-<!-- Banner / Header -->
 <div align="center">
 
-```
- ██████╗ ██╗     ██╗██╗   ██╗███████╗██████╗ 
-██╔═══██╗██║     ██║██║   ██║██╔════╝██╔══██╗
-██║   ██║██║     ██║██║   ██║█████╗  ██████╔╝
-██║   ██║██║     ██║╚██╗ ██╔╝██╔══╝  ██╔══██╗
-╚██████╔╝███████╗██║ ╚████╔╝ ███████╗██║  ██║
- ╚═════╝ ╚══════╝╚═╝  ╚═══╝  ╚══════╝╚═╝  ╚═╝
-```
+<!-- Banner animado con capsule-render -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00ff88&height=200&section=header&text=OLIVER26GOLDEN&fontSize=50&fontColor=0d1117&animation=fadeIn&fontAlignY=38&desc=Junior%20Python%20Developer%20%7C%20Madrid%2C%20Spain&descAlignY=58&descAlign=50&descColor=0d1117" width="100%"/>
 
-# Hey, I'm Oliver 👋
+<!-- Typing SVG animado -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FF88&center=true&vCenter=true&width=600&lines=Python+Developer+%F0%9F%90%8D;Automation+%26+REST+APIs;Trading+Bot+Builder+%F0%9F%93%88;Backend+Development;Open+to+Work+%F0%9F%9F%A2" alt="Typing SVG" />
 
-**Junior Python Developer — Madrid, Spain 🇪🇸**
+<br/>
 
-[![Open to Work](https://img.shields.io/badge/🟢_Open_to_Work-238636?style=flat-square&logoColor=white)](mailto:oliveljimenes@gmail.com)
-[![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://github.com/OLIVER26GOLDEN)
-[![REST APIs](https://img.shields.io/badge/REST_APIs-0ea5e9?style=flat-square)](https://github.com/OLIVER26GOLDEN)
-[![Automation](https://img.shields.io/badge/Automation-7c3aed?style=flat-square)](https://github.com/OLIVER26GOLDEN)
-[![Trading Bots](https://img.shields.io/badge/Trading_Bots-a855f7?style=flat-square)](https://github.com/OLIVER26GOLDEN)
+<!-- Badges -->
+[![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=00ff88)](https://github.com/OLIVER26GOLDEN)
+[![Git](https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=00ff88)](https://github.com/OLIVER26GOLDEN)
+[![Linux](https://img.shields.io/badge/Linux-0d1117?style=for-the-badge&logo=linux&logoColor=00ff88)](https://github.com/OLIVER26GOLDEN)
+[![REST API](https://img.shields.io/badge/REST_API-0d1117?style=for-the-badge&logo=fastapi&logoColor=00ff88)](https://github.com/OLIVER26GOLDEN)
+[![Telegram](https://img.shields.io/badge/Telegram_API-0d1117?style=for-the-badge&logo=telegram&logoColor=00ff88)](https://github.com/OLIVER26GOLDEN)
 
 </div>
 
@@ -27,12 +22,15 @@
 ## `$ python3 oliver.py --info`
 
 ```python
-{
-  "location":   "Madrid, Spain 🇪🇸",
-  "role":       "Junior Python Developer",
-  "focus":      ["Automation", "REST APIs", "Backend Development"],
-  "currently":  "Building trading signal bots for IQ Option 📈",
-  "contact":    "oliveljimenes@gmail.com"
+developer = {
+    "name":      "Oliver Lugo Jiménez",
+    "handle":    "@OLIVER26GOLDEN",
+    "location":  "Madrid, Spain 🇪🇸",
+    "role":      "Junior Python Developer",
+    "focus":     ["Automation", "REST APIs", "Backend Development"],
+    "currently": "Building trading signal bots for IQ Option 📈",
+    "contact":   "oliveljimenes@gmail.com",
+    "status":    "🟢 Open to Work"
 }
 ```
 
@@ -40,13 +38,13 @@
 
 ## ⚡ Tech Stack
 
-| Category        | Tools |
-|----------------|-------|
-| **Languages**  | Python 🐍 |
-| **Backend**    | REST APIs, Backend Dev |
-| **DevOps**     | Git & GitHub 🐙, Linux 🐧 |
-| **Automation** | Python scripts, Threading, Telegram API 📡 |
-| **Trading**    | IQ Option API, Signal Detection |
+```
+Languages    →  Python 🐍
+Backend      →  REST APIs · Backend Dev
+DevOps       →  Git & GitHub 🐙 · Linux 🐧
+Automation   →  Threading · Telegram API 📡
+Trading      →  IQ Option API · Signal Detection
+```
 
 ---
 
@@ -64,14 +62,15 @@
 ## 🚀 Featured Projects
 
 ### 🤖 [TeamBinari_Bot](https://github.com/OLIVER26GOLDEN/TeamBinari_Bot)
-> Trading signal bot with **Telegram alerts** — monitors multiple assets simultaneously using Python `threading`. Sends full signal details: asset, direction, support level, amount, martingale level & timestamp.
+> Signal bot with **Telegram alerts** — monitors multiple assets using Python `threading`.  
+> Sends: asset · direction · support level · amount · martingale level · timestamp.
 
 `Python` `Telegram API` `Threading` `IQ Option`
 
 ---
 
 ### 📈 [Binary IQOption Automation](https://github.com/OLIVER26GOLDEN/binary-iqoption-automation)
-> Automated signal detection for IQ Option using breakout/resistance strategy. Multi-asset monitoring with configurable asset list and modular architecture.
+> Signal detection using breakout/resistance strategy. Multi-asset with configurable asset list.
 
 `Python` `IQ Option API` `Signal Detection` `Automation`
 
@@ -81,9 +80,12 @@
 
 <div align="center">
 
-![Oliver's GitHub Stats](https://github-readme-stats.vercel.app/api?username=OLIVER26GOLDEN&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00ff88&icon_color=00ff88&text_color=e6edf3)
+<img src="https://github-readme-stats.vercel.app/api?username=OLIVER26GOLDEN&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00ff88&icon_color=00ff88&text_color=e6edf3&ring_color=00ff88" height="160"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OLIVER26GOLDEN&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00ff88&text_color=e6edf3" height="160"/>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=OLIVER26GOLDEN&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00ff88&text_color=e6edf3)
+<br/><br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=OLIVER26GOLDEN&theme=dark&hide_border=true&background=0d1117&stroke=00ff88&ring=00ff88&fire=00ff88&currStreakLabel=00ff88&sideLabels=00ff88&dates=e6edf3" height="160"/>
 
 </div>
 
@@ -93,13 +95,12 @@
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-@OLIVER26GOLDEN-181717?style=for-the-badge&logo=github)](https://github.com/OLIVER26GOLDEN)
-[![Email](https://img.shields.io/badge/Email-oliveljimenes@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:oliveljimenes@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-@OLIVER26GOLDEN-0d1117?style=for-the-badge&logo=github&logoColor=00ff88)](https://github.com/OLIVER26GOLDEN)
+[![Email](https://img.shields.io/badge/Email-oliveljimenes@gmail.com-0d1117?style=for-the-badge&logo=gmail&logoColor=00ff88)](mailto:oliveljimenes@gmail.com)
 
 </div>
 
 ---
 
-<div align="center">
-  <sub>Built with ❤️ and Python · <b>@OLIVER26GOLDEN</b></sub>
-</div>
+<!-- Footer wave -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00ff88&height=100&section=footer" width="100%"/>
