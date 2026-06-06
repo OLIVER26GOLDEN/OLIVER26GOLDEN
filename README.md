@@ -51,14 +51,50 @@ if __name__ == "__main__":
 
 <div align="center">
 
-[![Python](https://img.shields.io/badge/Python-Conquer%20Blocks-0d1117?style=for-the-badge&logo=python&logoColor=00ff88&labelColor=0d1117&color=00ff88)](https://github.com/OLIVER26GOLDEN/OLIVER26GOLDEN/blob/main/certs/python.pdf)
-[![Python Avanzado](https://img.shields.io/badge/Python%20Avanzado-Conquer%20Blocks-0d1117?style=for-the-badge&logo=python&logoColor=00ff88&labelColor=0d1117&color=00ff88)](https://github.com/OLIVER26GOLDEN/OLIVER26GOLDEN/blob/main/certs/python-avanzado.pdf)
-[![Git & GitHub](https://img.shields.io/badge/Git%20%26%20GitHub-Conquer%20Blocks-0d1117?style=for-the-badge&logo=github&logoColor=00ff88&labelColor=0d1117&color=00ff88)](https://github.com/OLIVER26GOLDEN/OLIVER26GOLDEN/blob/main/certs/git-github.pdf)
-[![Linux & Terminal](https://img.shields.io/badge/Linux%20%26%20Terminal-Conquer%20Blocks-0d1117?style=for-the-badge&logo=linux&logoColor=00ff88&labelColor=0d1117&color=00ff88)](https://github.com/OLIVER26GOLDEN/OLIVER26GOLDEN/blob/main/certs/linux-terminal.pdf)
-[![Pseudocódigo](https://img.shields.io/badge/Pseudoc%C3%B3digo-Conquer%20Blocks-0d1117?style=for-the-badge&logo=bookstack&logoColor=00ff88&labelColor=0d1117&color=00ff88)](https://github.com/OLIVER26GOLDEN/OLIVER26GOLDEN/blob/main/certs/pseudocodigo.pdf)
+<table>
+<tr>
+<td align="center" width="200">
+<a href="https://github.com/OLIVER26GOLDEN/OLIVER26GOLDEN/blob/main/certs/python.pdf">
+<img src="https://github.com/OLIVER26GOLDEN/OLIVER26GOLDEN/blob/main/certs/python.pdf?raw=true" width="180" style="border-radius:6px"/>
+<br/>
+<sub><b>🐍 Python</b></sub>
+</a>
+</td>
+<td align="center" width="200">
+<a href="https://github.com/OLIVER26GOLDEN/OLIVER26GOLDEN/blob/main/certs/python-avanzado.pdf">
+<img src="https://github.com/OLIVER26GOLDEN/OLIVER26GOLDEN/blob/main/certs/python-avanzado.pdf?raw=true" width="180" style="border-radius:6px"/>
+<br/>
+<sub><b>🐍 Python Avanzado</b></sub>
+</a>
+</td>
+<td align="center" width="200">
+<a href="https://github.com/OLIVER26GOLDEN/OLIVER26GOLDEN/blob/main/certs/git-github.pdf">
+<img src="https://github.com/OLIVER26GOLDEN/OLIVER26GOLDEN/blob/main/certs/git-github.pdf?raw=true" width="180" style="border-radius:6px"/>
+<br/>
+<sub><b>🐙 Git & GitHub</b></sub>
+</a>
+</td>
+</tr>
+<tr>
+<td align="center" width="200">
+<a href="https://github.com/OLIVER26GOLDEN/OLIVER26GOLDEN/blob/main/certs/linux-terminal.pdf">
+<img src="https://github.com/OLIVER26GOLDEN/OLIVER26GOLDEN/blob/main/certs/linux-terminal.pdf?raw=true" width="180" style="border-radius:6px"/>
+<br/>
+<sub><b>🐧 Linux & Terminal</b></sub>
+</a>
+</td>
+<td align="center" width="200">
+<a href="https://github.com/OLIVER26GOLDEN/OLIVER26GOLDEN/blob/main/certs/pseudocodigo.pdf">
+<img src="https://github.com/OLIVER26GOLDEN/OLIVER26GOLDEN/blob/main/certs/pseudocodigo.pdf?raw=true" width="180" style="border-radius:6px"/>
+<br/>
+<sub><b>📋 Pseudocódigo</b></sub>
+</a>
+</td>
+<td></td>
+</tr>
+</table>
 
 </div>
-
 
 
 
