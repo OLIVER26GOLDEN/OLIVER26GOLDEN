@@ -7,6 +7,19 @@ README.md
 
 
 
+## 🏅 Certifications
+
+```
+ ██████████████████████████████████████████████████
+ ✅  Python                ── Core & OOP fundamentals
+ ✅  Advanced Python       ── Async · APIs · OOP
+ ✅  Git & GitHub          ── Branching · PRs · Workflows
+ ✅  Linux & Terminal      ── Shell scripting · System ops
+ ██████████████████████████████████████████████████
+```
+
+
+
 <!-- Badges -->
 [![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=00ff88)](https://github.com/OLIVER26GOLDEN)
 [![Linux](https://img.shields.io/badge/Linux-0d1117?style=for-the-badge&logo=linux&logoColor=00ff88)](https://github.com/OLIVER26GOLDEN)
