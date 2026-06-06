@@ -6,6 +6,48 @@ README.md
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FF88&center=true&vCenter=true&width=600&lines=Python+Developer+%F0%9F%90%8D;Automation+%26+REST+APIs;Trading+Bot+Builder+%F0%9F%93%88;Backend+Development;Open+to+Work+%F0%9F%9F%A2" alt="Typing SVG" />
 
 
+## `$ python3 oliver.py --whoami`
+
+```python
+# ╔══════════════════════════════════════════════════════════════╗
+# ║  ██████  ██      ██ ██╗   ██╗███████╗██████╗               ║
+# ║ ██    ██ ██      ██ ██║   ██║██╔════╝██╔══██╗              ║
+# ║ ██    ██ ██      ██ ██║   ██║█████╗  ██████╔╝              ║
+# ║ ██    ██ ██      ██  ██║ ██║ ██╔══╝  ██╔══██╗              ║
+# ║  ██████  ███████ ██   ████   ███████ ██║  ██║              ║
+# ╚══════════════════════════════════════════════════════════════╝
+# ► OLIVER26GOLDEN  ·  Junior Python Developer  ·  Madrid 🇪🇸
+
+class Developer:
+
+    name        = "Oliver Lugo Jiménez"
+    handle      = "@OLIVER26GOLDEN"
+    location    = "Madrid, Spain 🇪🇸"
+    role        = "Junior Python Developer"
+    status      = "🟢 Open to Work"
+    contact     = "oliveljimenes@gmail.com"
+
+    specialties = [
+        "🤖  Trading Bot Development  ──  IQ Option API",
+        "🐍  Python Automation & Scripting",
+        "🔌  REST APIs & Backend Development",
+        "📡  Telegram Bot Integration",
+        "🧵  Multi-asset Threading & Signal Detection",
+    ]
+
+    currently   = "Building multi-asset signal bots for IQ Option 📈"
+
+    def greet(self):
+        return f"Hey! I'm {self.name} — let's build something. 🚀"
+
+
+if __name__ == "__main__":
+    oliver = Developer()
+    print(oliver.greet())
+    # >> Hey! I'm Oliver Lugo Jiménez — let's build something. 🚀
+```
+
+
 
 ## 🏅 Certifications
 
