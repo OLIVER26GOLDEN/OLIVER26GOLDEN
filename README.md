@@ -1,3 +1,4 @@
+<img width="3202" height="2261" alt="python-avanzado" src="https://github.com/user-attachments/assets/e1ae4bf3-5408-49a6-b609-a950645ef9ae" />
 README.md
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=220&section=header&text=OLIVER26GOLDEN&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Python%20Developer%20%7C%20Automation%20%7C%20Trading%20Bots%20%7C%20Madrid%20%F0%9F%87%AA%F0%9F%87%B8&descAlignY=58&descSize=16&descColor=00ff88" width="100%"/>
