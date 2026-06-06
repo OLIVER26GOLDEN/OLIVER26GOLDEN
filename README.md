@@ -1,4 +1,9 @@
 README.md
+<!-- Banner animado con capsule-render -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00ff88&height=200&section=header&text=OLIVER26GOLDEN&fontSize=50&fontColor=0d1117&animation=fadeIn&fontAlignY=38&desc=Junior%20Python%20Developer%20%7C%20Madrid%2C%20Spain&descAlignY=58&descAlign=50&descColor=0d1117" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=220&section=header&text=OLIVER26GOLDEN&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Python%20Developer%20%7C%20Automation%20%7C%20Trading%20Bots%20%7C%20Madrid%20%F0%9F%87%AA%F0%9F%87%B8&descAlignY=58&descSize=16&descColor=00ff88" width="100%"/>
+
+
 
 
 <!-- Badges -->
