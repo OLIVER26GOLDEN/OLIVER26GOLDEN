@@ -1,23 +1,14 @@
 <div align="center">
-
-<!-- Banner animado con capsule-render -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=00ff88&height=200&section=header&text=OLIVER26GOLDEN&fontSize=50&fontColor=0d1117&animation=fadeIn&fontAlignY=38&desc=Junior%20Python%20Developer%20%7C%20Madrid%2C%20Spain&descAlignY=58&descAlign=50&descColor=0d1117" width="100%"/>
-
-<!-- Typing SVG animado -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FF88&center=true&vCenter=true&width=600&lines=Python+Developer+%F0%9F%90%8D;Automation+%26+REST+APIs;Trading+Bot+Builder+%F0%9F%93%88;Backend+Development;Open+to+Work+%F0%9F%9F%A2" alt="Typing SVG" />
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=220&section=header&text=OLIVER26GOLDEN&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Python%20Developer%20%7C%20Automation%20%7C%20Trading%20Bots%20%7C%20Madrid%20%F0%9F%87%AA%F0%9F%87%B8&descAlignY=58&descSize=16&descColor=00ff88" width="100%"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2500&pause=800&color=00FF88&center=true&vCenter=true&width=650&lines=🤖+Building+trading+bots+for+IQ+Option;📡+Sending+signals+via+Telegram+API;🐍+Python+Automation+%26+REST+APIs;📈+Multi-asset+signal+detection;🔧+Backend+Dev+%7C+Madrid%2C+Spain+🇪🇸;🟢+Open+to+Work" alt="Typing SVG" />
 <br/>
-
-<!-- Badges -->
-[![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=00ff88)](https://github.com/OLIVER26GOLDEN)
-[![Git](https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=00ff88)](https://github.com/OLIVER26GOLDEN)
-[![Linux](https://img.shields.io/badge/Linux-0d1117?style=for-the-badge&logo=linux&logoColor=00ff88)](https://github.com/OLIVER26GOLDEN)
-[![REST API](https://img.shields.io/badge/REST_API-0d1117?style=for-the-badge&logo=fastapi&logoColor=00ff88)](https://github.com/OLIVER26GOLDEN)
-[![Telegram](https://img.shields.io/badge/Telegram_API-0d1117?style=for-the-badge&logo=telegram&logoColor=00ff88)](https://github.com/OLIVER26GOLDEN)
-
+Mostrar imagen
+Mostrar imagen
+Mostrar imagen
+Mostrar imagen
+Mostrar imagen
+Mostrar imagen
 </div>
-
----
 
 ## `$ python3 oliver.py --info`
 
