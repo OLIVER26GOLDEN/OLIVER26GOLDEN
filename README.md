@@ -47,42 +47,8 @@ if __name__ == "__main__":
     # >> Hey! I'm Oliver Lugo Jiménez — let's build something. 🚀
 ```
 
-## 🏅 Certifications
+<img width="3202" height="2261" alt="python" src="https://github.com/user-attachments/assets/d39881b3-c123-483a-86c3-98692eeb1421" />
 
-<div align="center">
-<table>
-<tr>
-<td align="center">
-<a href="https://github.com/OLIVER26GOLDEN/OLIVER26GOLDEN/blob/main/certs/python.pdf">
-<img src="https://raw.githubusercontent.com/OLIVER26GOLDEN/OLIVER26GOLDEN/main/certs/python.png" width="180"/>
-</a><br/><sub><b>🐍 Python</b></sub>
-</td>
-<td align="center">
-<a href="https://github.com/OLIVER26GOLDEN/OLIVER26GOLDEN/blob/main/certs/python-avanzado.pdf">
-<img src="https://raw.githubusercontent.com/OLIVER26GOLDEN/OLIVER26GOLDEN/main/certs/python-avanzado.png" width="180"/>
-</a><br/><sub><b>🐍 Python Avanzado</b></sub>
-</td>
-<td align="center">
-<a href="https://github.com/OLIVER26GOLDEN/OLIVER26GOLDEN/blob/main/certs/git-github.pdf">
-<img src="https://raw.githubusercontent.com/OLIVER26GOLDEN/OLIVER26GOLDEN/main/certs/git-github.png" width="180"/>
-</a><br/><sub><b>🐙 Git & GitHub</b></sub>
-</td>
-</tr>
-<tr>
-<td align="center">
-<a href="https://github.com/OLIVER26GOLDEN/OLIVER26GOLDEN/blob/main/certs/linux-terminal.pdf">
-<img src="https://raw.githubusercontent.com/OLIVER26GOLDEN/OLIVER26GOLDEN/main/certs/linux-terminal.png" width="180"/>
-</a><br/><sub><b>🐧 Linux & Terminal</b></sub>
-</td>
-<td align="center">
-<a href="https://github.com/OLIVER26GOLDEN/OLIVER26GOLDEN/blob/main/certs/pseudocodigo.pdf">
-<img src="https://raw.githubusercontent.com/OLIVER26GOLDEN/OLIVER26GOLDEN/main/certs/pseudocodigo.png" width="180"/>
-</a><br/><sub><b>📋 Pseudocódigo</b></sub>
-</td>
-<td></td>
-</tr>
-</table>
-</div>
 
 
 
