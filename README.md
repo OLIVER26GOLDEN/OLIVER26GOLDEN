@@ -82,6 +82,23 @@ if __name__ == "__main__":
 </table>
 </div>
 
+## 🚀 Projects
+
+**[📈 binary-iqoptionapi-automation](https://github.com/OLIVER26GOLDEN/binary-iqoptionapi-automation)**
+> Sistema de automatización en Python para gestión y ejecución de estrategias de trading en IQ Option.
+> Más de un año de desarrollo continuo, múltiples versiones y optimizaciones.
+> Soporta múltiples pares de divisas, gestión automática de señales y registro de actividad.
+
+`Python` `IQ Option API` `Signal Detection` `Automation` `Threading`
+
+---
+
+**[🤖 TeamBinari_Bot](https://github.com/OLIVER26GOLDEN/TeamBinari_Bot)**
+> Signal bot con alertas via Telegram. Monitorea múltiples assets en paralelo con `threading`.
+> Envía: asset · dirección · nivel de soporte · monto · nivel martingala · timestamp.
+
+`Python` `Telegram API` `Threading` `IQ Option`
+
 
 
 
