@@ -93,7 +93,7 @@ if __name__ == "__main__":
 
 ---
 
-**[-TeamBinari_Bot](https://github.com/OLIVER26GOLDEN/TeamBinari_Bot)**
+**[🤖-TeamBinari_Bot](https://github.com/OLIVER26GOLDEN/TeamBinari_Bot)**
 > Signal bot con alertas via Telegram. Monitorea múltiples assets en paralelo con `threading`.
 > Envía: asset · dirección · nivel de soporte · monto · nivel martingala · timestamp.
 
