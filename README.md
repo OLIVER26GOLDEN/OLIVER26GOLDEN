@@ -99,6 +99,12 @@ if __name__ == "__main__":
 
 `Python` `Telegram API` `Threading` `IQ Option`
 
+**[Sistema-de-Recomendaci-n-TMDB-Python-API-]([https://github.com/OLIVER26GOLDEN/-TeamBinari_Bot](https://github.com/OLIVER26GOLDEN/Sistema-de-Recomendaci-n-TMDB-Python-API-)**
+Aplicación de escritorio en Python que recomienda películas y series en tiempo real usando la API oficial de TMDB.
+Muestra hasta 12 recomendaciones con póster oficial, puntuación y sinopsis mediante una interfaz gráfica oscura estilo Netflix.
+Carga de imágenes asíncrona con threading y acceso directo a la plataforma de streaming con un solo clic.
+Python TMDB API tkinter Pillow Threading REST API
+
 
 
 
