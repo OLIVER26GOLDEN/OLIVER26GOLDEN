@@ -106,7 +106,10 @@ if __name__ == "__main__":
 
 `Python` `TMDB API` `tkinter` `Pillow` `Threading` `REST API`
 
-
+**[🔔 price-alert-bot](https://github.com/OLIVER26GOLDEN/price-alert-bot)**
+> API en Python que monitorea precios de productos y envía alertas por Telegram cuando bajan del precio objetivo.
+> Arquitectura modular: scraping, scheduler en background, persistencia en SQLite e histórico de precios.
+`Python` `FastAPI` `SQLAlchemy` `Telegram API` `Web Scraping` `APScheduler`
 
 
 
