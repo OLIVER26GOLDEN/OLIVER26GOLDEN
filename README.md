@@ -4,12 +4,12 @@ README.md
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=220&section=header&text=OLIVERLUGO&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Python%20Developer%20%7C%20Automation%20%7C%20Trading%20Bots%20%7C%20Madrid%20%F0%9F%87%AA%F0%9F%87%B8&descAlignY=58&descSize=16&descColor=00ff88" width="100%"/>
 
 <!-- Typing SVG animado -->
-<img src="https://readme-typing-svg.demolab.com?     font=Fira+Code&size=22&duration=3000&pause=1000&color=00FF88&center=true&vCenter=true&width=600&lines=Python+Developer+%F0%9F%90%8D;Automation+%26+REST+APIs;Trading+Bot+Builder+%F0%9F%93%88;Backend+Development;Open+to+Work+%F0%9F%9F%A2" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FF88&center=true&vCenter=true&width=600&lines=Python+Developer+%F0%9F%90%8D;Automation+%26+REST+APIs;Trading+Bot+Builder+%F0%9F%93%88;Backend+Development;Open+to+Work+%F0%9F%9F%A2" alt="Typing SVG" />
 
 
 
 
-```pythong
+```python
 # ╔══════════════════════════════════════════════════════════════╗
 # ║  ██████  ██      ██ ██╗   ██╗███████╗██████╗               ║
 # ║ ██    ██ ██      ██ ██║   ██║██╔════╝██╔══██╗              ║
@@ -146,7 +146,6 @@ if __name__ == "__main__":
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=OLIVER26GOLDEN&theme=dark&hide_border=true&background=0d1117&stroke=00ff88&ring=00ff88&fire=00ff88&currStreakLabel=00ff88&sideLabels=00ff88&dates=e6edf3" height="165"/>
 
 </div>
-
 
 
 
