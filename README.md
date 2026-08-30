@@ -88,6 +88,7 @@ if __name__ == "__main__":
  ✅  Advanced Python       ── Async · APIs · OOP
  ✅  Git & GitHub          ── Branching · PRs · Workflows
  ✅  Linux & Terminal      ── Shell scripting · System ops
+ ✅  MYSQL                 ── SQL LITE
  ██████████████████████████████████████████████████
 ```
 
