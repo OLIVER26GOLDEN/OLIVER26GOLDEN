@@ -18,14 +18,14 @@ README.md
 # ║ ██    ██ ██      ██  ██║ ██║ ██╔══╝  ██╔══██╗              ║
 # ║  ██████  ███████ ██   ████   ███████ ██║  ██║              ║
 # ╚══════════════════════════════════════════════════════════════╝
-# ► OLIVER26GOLDEN  ·  Junior Python Developer  ·  Madrid 🇪🇸
+# ► OLIVER26GOLDEN  · Python Developer  ·  Madrid 🇪🇸
 
 class Developer:
 
     name        = "Oliver Lugo Jiménez"
     handle      = "@OLIVER26GOLDEN"
     location    = "Madrid, Spain 🇪🇸"
-    role        = "Junior Python Developer"
+    role        = " Python Developer"
     status      = "🟢 Open to Work"
     contact     = "oliveljimenes@gmail.com"
 
