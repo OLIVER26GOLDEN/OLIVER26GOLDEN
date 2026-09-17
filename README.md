@@ -47,7 +47,13 @@ Monitoriza precios en Amazon (scraping) y avisa por Telegram cuando bajan del ob
 Python · Python Avanzado · Git & GitHub · Linux & Terminal · SQL/ORM
 
 ---
+---
 
+### GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=OLIVER26GOLDEN&theme=dark&hide_border=true" />
+</p>
 ### Contacto
 
 [GitHub](https://github.com/OLIVER26GOLDEN) · [oliverlugojimenez@gmail.com](mailto:oliverlugojimenez@gmail.com)
