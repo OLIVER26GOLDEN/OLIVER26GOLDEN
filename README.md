@@ -10,7 +10,7 @@
 
 ### Sobre mí
 
-Construyo APIs y sistemas backend en Python — FastAPI, SQLAlchemy, scheduling en background, integraciones con APIs externas. Aprendí resolviendo problemas reales (bots de trading, scraping, alertas) antes de formalizarlo con el Máster Full-Stack en Conquer Blocks Academy (Git/GitHub, Linux, SQL/ORM). Ahora busco mi primer rol backend.
+Construyo APIs y sistemas backend en Python — FastAPI, SQLAlchemy, scheduling en background, integraciones con APIs externas. Aprendí resolviendo problemas reales (bots de trading, scraping, alertas) antes de formalizarlo con el Máster Full-Stack en Conquer Blocks Academy (Git/GitHub, Linux, SQL/ORM). Listo para aportar en un equipo backend desde el primer día.
 
 Freelance: desarrollé y desplegué un bot de trading para un cliente real (contratado vía Wallapop) — Render con Background Worker + keep-alive en producción.
 
