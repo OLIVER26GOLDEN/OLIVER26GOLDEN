@@ -1,131 +1,53 @@
 
-README.md
+<h1 align="center">Oliver Lugo Jiménez</h1>
+<h3 align="center">Backend Engineer · Python · Automatización & REST APIs · Madrid</h3>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=220&section=header&text=OLIVERLUGO&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Python%20Developer%20%7C%20Automation%20%7C%20Aplicaciones%20Scripts%20%7C%20Madrid%20%F0%9F%87%AA%F0%9F%87%B8&descAlignY=58&descSize=16&descColor=00ff88" width="100%"/>
-
-<!-- Typing SVG animado -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FF88&center=true&vCenter=true&width=600&lines=Python+Developer+%F0%9F%90%8D;Automation+%26+REST+APIs;Aplicaciones+Builder+%F0%9F%93%88;Backend+Development;Open+to+Work+%F0%9F%9F%A2" alt="Typing SVG" />
+  <img src="https://img.shields.io/badge/status-open%20to%20work-000000?style=flat-square" />
 </p>
-
-
-
-```python
-# ╔══════════════════════════════════════════════════════════════╗
-# ║  ██████  ██      ██ ██╗   ██╗███████╗██████╗               ║
-# ║ ██    ██ ██      ██ ██║   ██║██╔════╝██╔══██╗              ║
-# ║ ██    ██ ██      ██ ██║   ██║█████╗  ██████╔╝              ║
-# ║ ██    ██ ██      ██  ██║ ██║ ██╔══╝  ██╔══██╗              ║
-# ║  ██████  ███████ ██   ████   ███████ ██║  ██║              ║
-# ╚══════════════════════════════════════════════════════════════╝
-# ► OLIVER26GOLDEN  · Python Developer  ·  Madrid 🇪🇸
-
-class Developer:
-
-    name        = "Oliver Lugo Jiménez"
-    handle      = "@OLIVER26GOLDEN"
-    location    = "Madrid, Spain 🇪🇸"
-    role        = " Python Developer"
-    status      = "🟢 Open to Work"
-    contact     = "oliveljimenes@gmail.com"
-
-    specialties = [
-        "🤖  Trading Bot Development  ──  IQ Option API",
-        "🐍  Python Automation & Scripting",
-        "🔌  REST APIs & Backend Development",
-        "📡  Telegram Bot Integration",
-        "🧵  Multi-asset Threading & Signal Detection",
-    ]
-
-    currently   = "Building multi-asset signal bots for IQ Option 📈"
-
-    def greet(self):
-        return f"Hey! I'm {self.name} — let's build something. 🚀"
-
-
-if __name__ == "__main__":
-    oliver = Developer()
-    print(oliver.greet())
-    # >> Hey! I'm Oliver Lugo Jiménez — let's build something. 🚀
-```
-
-
-
-## 🚀 Projects
-
-**[📈 binary-iqoptionapi-automation](https://github.com/OLIVER26GOLDEN/binary-iqoptionapi-automation)**
-> Sistema de automatización en Python para gestión y ejecución de estrategias de trading en IQ Option.
-> Más de un año de desarrollo continuo, múltiples versiones y optimizaciones.
-> Soporta múltiples pares de divisas, gestión automática de señales y registro de actividad.
-
-`Python` `IQ Option API` `Signal Detection` `Automation` `Threading`
 
 ---
 
-**[🤖 TeamBinari Bot](https://github.com/OLIVER26GOLDEN/-TeamBinari_Bot)**
-> Signal bot con alertas via Telegram. Monitorea múltiples assets en paralelo con `threading`.
-> Envía: asset · dirección · nivel de soporte · monto · nivel martingala · timestamp.
+### Sobre mí
 
-`Python` `Telegram API` `Threading` `IQ Option`
+Construyo APIs y sistemas backend en Python — FastAPI, SQLAlchemy, scheduling en background, integraciones con APIs externas. Aprendí resolviendo problemas reales (bots de trading, scraping, alertas) antes de formalizarlo con el Máster Full-Stack en Conquer Blocks Academy (Git/GitHub, Linux, SQL/ORM). Ahora busco mi primer rol backend.
 
-**[🎬 Sistema-de-Recomendaci-n-TMDB-Python-API](https://github.com/OLIVER26GOLDEN/Sistema-de-Recomendaci-n-TMDB-Python-API-)**
-> Aplicación de escritorio en Python que recomienda películas y series en tiempo real usando la API oficial de TMDB.
-> Muestra hasta 12 recomendaciones con póster oficial, puntuación y sinopsis mediante una interfaz gráfica oscura estilo Netflix.
-> Carga de imágenes asíncrona con `threading` y acceso directo a la plataforma de streaming con un solo clic.
+Freelance: desarrollé y desplegué un bot de trading para un cliente real (contratado vía Wallapop) — Render con Background Worker + keep-alive en producción.
 
-`Python` `TMDB API` `tkinter` `Pillow` `Threading` `REST API`
+---
 
-**[🔔 Amazon-Price-Alert-Bot](https://github.com/OLIVER26GOLDEN/Amazon-Price-Alert-Bot)**
-> API en Python que monitorea precios de productos en Amazon y envía alertas por Telegram cuando bajan del precio objetivo.
-> Arquitectura modular: scraping, scheduler en background, persistencia en SQLite e histórico de precios.
-`Python` `FastAPI` `SQLAlchemy` `Telegram API` `Web Scraping` `APScheduler`
+### Stack
 
+Python · FastAPI · SQLAlchemy · APScheduler · Telegram Bot API · tkinter · REST APIs · Git/GitHub · Linux
 
-## 🏅 Certifications
+---
 
-```
- ██████████████████████████████████████████████████
- ✅  Python                ── Core & OOP fundamentals
- ✅  Advanced Python       ── Async · APIs · OOP
- ✅  Git & GitHub          ── Branching · PRs · Workflows
- ✅  Linux & Terminal      ── Shell scripting · System ops
- ✅  MYSQL                 ── SQL LITE
- ██████████████████████████████████████████████████
-```
+### Proyectos
 
+**[binary-iqoptionapi-automation](https://github.com/OLIVER26GOLDEN/binary-iqoptionapi-automation)**
+Sistema de automatización para IQ Option: detección de señales, gestión de múltiples pares OTC, registro de actividad. Más de un año de desarrollo — incluye una fase de backtesting cuantitativo sobre datos EUR/USD M1 para validar (o descartar) estrategias antes de automatizarlas, en vez de asumir que funcionaban.
+`Python` `Threading` `Signal Detection`
 
+**[TeamBinari_Bot](https://github.com/OLIVER26GOLDEN/-TeamBinari_Bot)**
+Bot de señales con alertas por Telegram (asset, dirección, soporte, monto, nivel martingala, timestamp). Monitoriza varios activos en paralelo con `threading`.
+`Python` `Telegram API` `Threading`
 
-<!-- Badges -->
-[![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=00ff88)](https://github.com/OLIVER26GOLDEN)
-[![Linux](https://img.shields.io/badge/Linux-0d1117?style=for-the-badge&logo=linux&logoColor=00ff88)](https://github.com/OLIVER26GOLDEN)
-[![REST API](https://img.shields.io/badge/REST_API-0d1117?style=for-the-badge&logo=fastapi&logoColor=00ff88)](https://github.com/OLIVER26GOLDEN)
-![IQ Option](https://img.shields.io/badge/IQ_Option_API-0d1117?style=for-the-badge&logo=chartdotjs&logoColor=00ff88)
-![Telegram](https://img.shields.io/badge/Telegram_API-0d1117?style=for-the-badge&logo=telegram&logoColor=00ff88)
-![Git](https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=00ff88)
+**[Sistema de Recomendación TMDB](https://github.com/OLIVER26GOLDEN/Sistema-de-Recomendaci-n-TMDB-Python-API-)**
+App de escritorio (tkinter) que consulta la API de TMDB: hasta 12 recomendaciones con póster, puntuación y sinopsis, carga de imágenes asíncrona con `threading`.
+`Python` `TMDB API` `tkinter` `Pillow`
 
-</div>
+**[Amazon Price Alert Bot](https://github.com/OLIVER26GOLDEN/Amazon-Price-Alert-Bot)**
+Monitoriza precios en Amazon (scraping) y avisa por Telegram cuando bajan del objetivo. Scheduler en background, histórico de precios en SQLite.
+`Python` `FastAPI` `SQLAlchemy` `APScheduler` `Web Scraping`
 
+---
 
+### Certificaciones
 
+Python · Python Avanzado · Git & GitHub · Linux & Terminal · SQL/ORM
 
+---
 
+### Contacto
 
-
-
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=OLIVER26GOLDEN&theme=dark&hide_border=true&background=0d1117&stroke=00ff88&ring=00ff88&fire=00ff88&currStreakLabel=00ff88&sideLabels=00ff88&dates=e6edf3" height="165"/>
-
-</div>
-
-
-
-
-
-
-
-[![GitHub](https://img.shields.io/badge/GitHub-@OLIVER26GOLDEN-0d1117?style=for-the-badge&logo=github&logoColor=00ff88)](https://github.com/OLIVER26GOLDEN)
-[![Email](https://img.shields.io/badge/Email-oliveljimenes@gmail.com-0d1117?style=for-the-badge&logo=gmail&logoColor=00ff88)](mailto:oliveljimenes@gmail.com)
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=00ff88&height=100&section=footer" width="100%"/>
-
-</div>
+[GitHub](https://github.com/OLIVER26GOLDEN) · [oliverlugojimenez@gmail.com](mailto:oliverlugojimenez@gmail.com)
