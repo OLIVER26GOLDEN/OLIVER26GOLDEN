@@ -28,7 +28,7 @@ Python · FastAPI · SQLAlchemy · APScheduler · Telegram Bot API · tkinter ·
 Sistema de automatización para IQ Option: detección de señales, gestión de múltiples pares OTC, registro de actividad. Más de un año de desarrollo — incluye una fase de backtesting cuantitativo sobre datos EUR/USD M1 para validar (o descartar) estrategias antes de automatizarlas, en vez de asumir que funcionaban.
 `Python` `Threading` `Signal Detection`
 
-**[TeamBinari_Bot](https://github.com/OLIVER26GOLDEN/-TeamBinari_Bot)**
+**[TeamBinari_Bot](https://github.com/OLIVER26GOLDEN/--TeamBinari_Bot)**
 Bot de señales con alertas por Telegram (asset, dirección, soporte, monto, nivel martingala, timestamp). Monitoriza varios activos en paralelo con `threading`.
 `Python` `Telegram API` `Threading`
 
